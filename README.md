@@ -39,6 +39,8 @@ Run client
 * Open the HTML file using Live Server
 * You can view your website at a URL like `http://127.0.0.1:5500/index.html`
 
+### (**All changes will appear after a quick refresh.**)
+
 ### Screenshots ###
 
 ![image](https://github.com/Shreya1201/Todo-Gofr/assets/93670796/48bc9e6a-e285-400a-bbe4-23ac4daceddd)
